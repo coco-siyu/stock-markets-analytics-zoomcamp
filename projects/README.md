@@ -22,7 +22,7 @@ For that, you will need:
 
 Suggested set of things to include:
 * README.md
-* Notebooks (research outcomes in Colab or Jupiter Notebooks),
+* Notebooks (research outcomes in Colab or Jupyter Notebooks),
 * .py files with scripts for each step
 * data workflow and command list to run it automatically
 * pipenv or requirements.txt
@@ -49,7 +49,7 @@ Suggested set of things to include:
 2) Data Sources (up to 4 points)
     * [ ] **(1 point) Use the data sources and the features from the lectures.**
     * [ ] (1 point) 20+ new features with their description in the data sources section (+10% volume).
-    * [ ] (1 point) New datasource is introduced - not YFinance, Fred (e.g., paid data, web scraping, alternative free data provider with unique features, etc.).
+    * [ ] (1 point) New data source is introduced - not YFinance, FRED (e.g., paid data, web scraping, alternative free data provider with unique features, etc.).
     * [ ] (1 point) Large dataset with >1 million of records.
 
 3) Data Transformations + EDA (up to 3 points)
@@ -61,7 +61,7 @@ Suggested set of things to include:
     * [ ] **(1 point) One model from the lecture is used (DecisionTree, RandomForest).**
     * [ ] (1 point) More than one model from the lecture is used to generate predictions.
     * [ ] (1 point) Custom decision rules on target higher probability events.
-    * [ ] (1 point) Hyperparameters tuning is used to tune models.
+    * [ ] (1 point) Hyperparameter tuning is used to tune models.
     * [ ] (1 point) New models are introduced: XGBoost, Regression, Deep Neural Networks and their variations (RNN, LSTM, GNN).
 
 5) Trading Simulation (up to 8 points)
@@ -85,14 +85,31 @@ Suggested set of things to include:
 
 7) Bonus points (up to 7 points)
     * [ ] (1 point) The code is well designed and commented on in modules.
-    * [ ] (1 point) Additional code to place bets through any Brokers API.
+    * [ ] (1 point) Additional code to place bets through any Broker's API.
     * [ ] (1 point) Additional code for monitoring models, financial results, trades → e.g., a dashboard (describe how to make it live), or Telegram bot to send messages with trades, data updates, etc.
     * [ ] (1 point) Containerization.
     * [ ] (1 point) Cloud deployment.
     * [ ] (1-2 points) Subjective bonus points from a peer reviewer: why do you like the project, what was particularly well done in the project?
 
 ## Project Submission
+### 2025
+### Attempt 1
+* [2025, Project submission attempt 1]
+Please submit your projects here before end of day 2025-08-25 (23:59:59 GMT+1)
+https://courses.datatalks.club/sma-zoomcamp-2025/project/project1
+* [2025, Project review attempt 1]
+Please review 3 peers projects between 2025-08-25 (00:00:00 GMT+1) and 2025-09-03 (23:59:59 GMT+1) https://courses.datatalks.club/sma-zoomcamp-2025/project/project1/eval
 
+### Attempt 2
+* [2025, Project submission attempt 2]
+Please submit your projects here before end of day 2025-09-22 (23:59:59 GMT+1)
+https://courses.datatalks.club/sma-zoomcamp-2025/project/project2
+* [2025, Project review attempt 2]
+Please review 3 peers projects between 2025-09-23 (00:00:00 GMT+1) and 2025-09-29 (23:59:59 GMT+1) https://courses.datatalks.club/sma-zoomcamp-2025/project/project2/eval
+
+---
+
+### 2024
 ### Attempt 1
 * [2024, Project submission attempt 1]
 Please submit your projects here before end of day 2024-07-15 (23:59:59 GMT+1)
